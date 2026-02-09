@@ -1,4 +1,3 @@
-# playwright-data-driven-js
 # Playwright Data-Driven Automation (JavaScript)
 
 ## Objective
@@ -12,9 +11,9 @@ Test scenarios are driven from JSON to minimize duplication and improve scalabil
 - JSON-based test data
 
 ## Project Structure
-pages/ # Page Objects (Login, Boards)
-test-data/ # JSON-driven test scenarios
-tests/ # Test specs
+- pages/ # Page Objects (Login, Boards)
+- test-data/ # JSON-driven test scenarios
+- tests/ # Test specs
 
 ## Test Coverage
 - Login automation
